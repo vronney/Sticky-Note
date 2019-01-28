@@ -1,4 +1,4 @@
-# Stick Note Project
+# Sticky Note Project
     - Created with create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
