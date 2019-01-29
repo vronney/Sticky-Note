@@ -17,4 +17,4 @@ You will also see any lint errors in the console.
 
 ### Deploy with Now
 
-Open [Sticky Note React App](https://build-qto4o21ld.now.sh) to view in browser.
+Open [Sticky Note React App](https://build-pglpb5jue.now.sh) to view in browser.
